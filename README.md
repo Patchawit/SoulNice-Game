@@ -14,9 +14,9 @@
 
 ## ตัวละคร
 - 1.Knight
-<a href=""><img src="img/5.jpg" widt="400px" height="600px"></a>
+<a href=""><img src="img/5.jpg" widt="200px" height="400px"></a>
 - 2.Rogue
-<a href=""><img src="img/6.jpg" widt="400px" height="600px"></a>
+<a href=""><img src="img/6.jpg" widt="200px" height="400px"></a>
 
 ## วิธีการเล่น
  - กด W A S D เพื่อเคลื่อนที่
