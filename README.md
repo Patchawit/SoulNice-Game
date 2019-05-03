@@ -14,7 +14,7 @@
 ## ลิงค์สาธิตการทำงานของเกม
 - https://www.youtube.com/watch?v=16-bthrSE1s&feature=youtu.be
 ## วิธีการเข้าเล่นเกม
-- ดาวน์โหลดไฟล์ Soul Nice
+- ดาวน์โหลดไฟล์ทั้งหมด
 - เปิดไฟล์ Soul Nice [EXECUTABLE]
 - เปิดเกม Soul Nice
 
