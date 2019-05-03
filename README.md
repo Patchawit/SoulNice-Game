@@ -1,5 +1,5 @@
 # SoulNice-Game
-<a href=""><img src="img/soulknight.JPG" widt="800px" height="1200px"></a>
+<a href=""><img src="img/soulknight.JPG" widt="600px" height="1000px"></a>
 
 ## บทคัดย่อ
     โปรแกรมเกมจิตวิญญาณแห่งอัศวิน(Soul Knight)เกมนี้มีจุดประสงค์เพื่อเป็นโปรแกรมเกมเพื่อความบันเทิง 
