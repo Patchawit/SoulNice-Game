@@ -1,0 +1,222 @@
+﻿  Animation.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Animation.cpp(12): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Animation.cpp(13): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  button.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\button.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\button.cpp(29): warning C4305: 'argument': truncation from 'double' to 'float'
+  Collider.cpp
+  Enemy.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Enemy.cpp(30): warning C4305: 'argument': truncation from 'double' to 'float'
+  Exam.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Exam.cpp(26): warning C4305: 'argument': truncation from 'double' to 'float'
+  Gate.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Gate.cpp(13): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Gate.cpp(17): warning C4305: 'argument': truncation from 'double' to 'float'
+  Item.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Item.cpp(11): warning C4305: 'argument': truncation from 'double' to 'float'
+  Loading_screen.cpp
+  main.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(103): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(224): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(240): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(242): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(280): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(281): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(288): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(289): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(297): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(298): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(305): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(306): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(317): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(318): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(327): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(328): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(335): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(336): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(351): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(352): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(359): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(360): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(368): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(369): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(377): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(378): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(389): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(390): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(397): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(398): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(406): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(407): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(415): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(416): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1683): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1684): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1692): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1693): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1715): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1716): warning C4305: '=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1855): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\main.cpp(1860): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Platform.cpp
+  Player.cpp
+  Weapon.cpp
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Weapon.cpp(18): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\nayka\Downloads\Soul_XD\Soul_XD\Weapon.cpp(21): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 639 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Soul Nice.vcxproj -> D:\Programing\C++\Soul Nice\x64\Release\Soul Nice.exe
